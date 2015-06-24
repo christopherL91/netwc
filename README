@@ -1,0 +1,7 @@
+A simple tool for searching through websites for specific words.
+
+For installing you must have Go installed in your PATH and for the manual you'll need pandoc in order to propely compile the markdown file.
+
+License: MIT
+Author: Christopher Lillthors
+Contact: christopher.lillthors@gmail.com
